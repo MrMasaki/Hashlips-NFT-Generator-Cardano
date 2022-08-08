@@ -1,0 +1,22 @@
+{
+    "721": {
+      "<policy_id>": {
+        "<asset_name>": {
+          "name": "<display_name>",
+          "image": "<ipfs_link>",
+          "mediaType": "<mime_type>",
+          "description": "<description>",
+          "files": [
+            {
+              "name": "<display_name>",
+              "mediaType": "<mime_type>",
+              "src": "<ipfs_link>"
+            }
+          ],
+          "thing":"<thing2>",
+          "thing2":"<thing2>"
+        }
+      },
+      "version": "1.0"
+    }
+  }
