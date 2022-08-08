@@ -1,5 +1,14 @@
 # Welcome to HashLips Cardano Mod 👄
 
+To check out my NFT project visit:
+
+[👄 Discord](https://discord.com/invite/f3CRWhNR)
+
+[🐦 Twitter](https://twitter.com/Waveyhandsnft)
+
+[ℹ️ Website](https://waveyhands.io)
+
+
 To check out hashlips visit:
 
 [📺 YouTube](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
@@ -12,14 +21,6 @@ To check out hashlips visit:
 
 [ℹ️ Website](https://hashlips.online/HashLips)
 
-
-To check out my NFT project visit:
-
-[👄 Discord](https://discord.com/invite/f3CRWhNR)
-
-[🐦 Twitter](https://twitter.com/Waveyhandsnft)
-
-[ℹ️ Website](https://waveyhands.io)
 
 
 # HashLips Art Engine 🔥
