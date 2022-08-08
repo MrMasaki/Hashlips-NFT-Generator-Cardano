@@ -1,7 +1,5 @@
 # Welcome to HashLips Cardano Mod 👄
 
-All the code was pretty much made by hashlips so checkout his youtube.
-
 To check out hashlips visit:
 
 [📺 YouTube](https://www.youtube.com/channel/UC1LV4_VQGBJHTJjEWUmy8nA)
@@ -22,6 +20,7 @@ To check out my NFT project visit:
 [🐦 Twitter](https://twitter.com/Waveyhandsnft)
 
 [ℹ️ Website](https://waveyhands.io)
+
 
 # HashLips Art Engine 🔥
 
